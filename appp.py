@@ -1,5 +1,4 @@
 import pyautogui
-import pyperclip
 from time import sleep
 
 # 1- Clicar e copiar info do Email
